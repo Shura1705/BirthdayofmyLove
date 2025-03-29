@@ -1,0 +1,39 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #ffe6e6;
+  color: #333;
+  text-align: center;
+}
+
+.love-background {
+  background-image: url('https://via.placeholder.com/800x600/ffcccc?text=Love+Background');
+  background-size: cover;
+}
+
+.container {
+  margin: auto;
+  padding: 20px;
+  width: 80%;
+}
+
+h1 {
+  font-size: 2.5em;
+  color: #ff4d4d;
+}
+
+p {
+  font-size: 1.2em;
+}
+
+button {
+  background-color: #ff4d4d;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin-top: 20px;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: #e63939;
+}
